@@ -1,11 +1,9 @@
 ---
 layout: default
-title: SQL
+title: Web
 nav_order: 6
 has_children: true
 parent: Attack
 ---
 
-# Recon
-
-## Coucou
+# WEB
